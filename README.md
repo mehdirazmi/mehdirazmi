@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Mehdi
 
-<!--
-**mehdirazmi/mehdirazmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Networking & IT Infrastructure
 
-Here are some ideas to get you started:
+I'm a computer student focused on developing practical skills in network administration and IT infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- **Networking:** Cisco IOS, VLANs, Trunking, STP, EtherChannel, OSPF, ACLs, NAT/PAT
+- **MikroTik:** RouterOS and network configuration
+- **Windows Server:** Active Directory, DNS, Group Policy
+- **Lab Tools:** PNETLab, VMware
+
+## Featured Projects
+
+- Small Company Network Lab — Cisco CCNA practice lab
+- Switching & Redundancy Lab — STP and EtherChannel
+- Routing & OSPF Lab — Routing configuration and troubleshooting
+
+## Current Focus
+
+Building practical networking labs, documenting configurations, and improving troubleshooting skills.
